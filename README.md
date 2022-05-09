@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeviMarvin
-- 👀 I’m interested in Java, Minecraft.
+- 👀 I’m interested in Java and C/C++.
 - 🌱 I’m currently learning Math, English, Chinese, Biology, Physics, Chemistr. XD
 - 🍀 Please visit OuvrirOS project account if you are being interesting~
   - [OuvrirOS](https://github.com/OuvrirOS/)
