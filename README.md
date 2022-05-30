@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @LeviMarvin
-- 👀 I’m interested in Java and C/C++.
+- 👀 I’m learning Java and C/C++ (C mainly).
 - 🌱 I’m currently learning Math, English, Chinese, Biology, Physics, Chemistr. XD
+- 💎 Some project you may be interested in:
+  - [Karse](https://github.com/LeviMarvin/karse) | A multithreading, multi-CA and open source OCSP server witch programmed by C language.
+  - [PxAutoMessage](https://github.com/LeviMarvin/PxAutoMessage) | A auto message plugin of Minecraft witch programmed by Java language.
 - 🍀 Please visit OuvrirOS project account if you are being interesting~
   - [OuvrirOS](https://github.com/OuvrirOS/)
   - [OuvrirOS-Devices](https://github.com/OuvrirOS-Devices/)
