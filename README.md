@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LeviMarvin
 - 👀 I’m learning Java and C/C++ (C mainly).
-- 🌱 I’m currently learning Math, English, Chinese, Biology, Physics, Chemistr. XD
 - 💎 Some project you may be interested in:
   - [gocspd](https://github.com/LeviMarvin/gocspd_pkg) | OCSP Responder for CA. Developed in Go language.
   - [FlatCA](https://github.com/LeviMarvin/flatca) | (Not Finish) A multithreading, multi-CA and open source OCSP server witch programmed by C language.
